@@ -3,7 +3,7 @@ import pickle
 import pandas as pd
 
 # Load the SARIMA model
-with open(r"C:\Users\mohdm\Downloads\DPS-AI-challenge-Monthly-accident-statistics-in-Munich-Germany--main\DPS-AI-challenge-Monthly-accident-statistics-in-Munich-Germany--main\model.pkl", "rb") as file:
+with open(r"model.pkl", "rb") as file:
     model = pickle.load(file)
 
 # Function to generate prediction
