@@ -56,7 +56,7 @@ st.markdown(
         }
     </style>
     <div class="watermark">
-        © 2024 Digital Product School - Built with ❤️ by Akshat Gupta: E22CSEU0059@bennett.edu.in
+        © 2024 Digital Product School - Built with ❤️ by Mohd Mohsin Ali: mohdmohsin066@gmail.com
     </div>
     """,
     unsafe_allow_html=True
