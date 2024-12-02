@@ -77,7 +77,7 @@ The dataset contains monthly traffic accident statistics in Munich, including:
 
 ## Deployment Details
 - 
-- **Deployed App URL**:([[https://germanmodel-s8qi2zaxwbqxgyfqddgssd.streamlit.app](https://zetrex.streamlit.app/](https://zetrex.streamlit.app/))))
+- **Deployed App URL**:(https://zetrex.streamlit.app/)
 - **POST Endpoint**: `{Deployed App URL}/predict`
 
 ---
